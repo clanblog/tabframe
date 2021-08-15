@@ -1,0 +1,16 @@
+ p {display: inline;} 
+  .post-body.entry-content  {
+    margin: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+}   
+.float-container {
+  position: relative;
+ 
+  height: auto;
+  overflow: hidden;
+  max-width: 70%;
+
+}
